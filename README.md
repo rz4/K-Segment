@@ -1,5 +1,5 @@
 # K-Segmentation For Sequence Data
-Author: Rafael Zamora
+Author: Rafael Zamora-Resendiz
 
 ## Overview
 
