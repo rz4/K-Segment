@@ -8,7 +8,7 @@ algorithm as described in this [blog](http://homepages.spa.umn.edu/~willmert/sci
 The algorithm generates a segmented constant-line fit to a data series, which
 is useful in finding unique clusters along sequentially ordered data. A quick
 exploration of using this on different kinds of data can be found in the project's
-[notebook](notebook/research.ipynb).
+[notebook](notebook/research_doc.ipynb).
 
 ## Importing Algorithm
 The actual code is very short and can be found under `src/k_segment.py`.
