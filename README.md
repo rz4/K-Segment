@@ -26,11 +26,11 @@ size = 100
 if __name__ == '__main__':
 
   # Data
-  x = np.rand((size))
+   x = np.random.rand((size))
   print(x)
 
   # Fit
-  y = regress_ksegments(series=x, weights=np.ones((size)), k=k)
+  y = regress_ksegments(series=x, weights=np.ones(x.shape), k=k)
   print(y)
 
 ```
